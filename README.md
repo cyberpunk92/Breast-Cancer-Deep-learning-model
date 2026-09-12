@@ -55,12 +55,3 @@ This repository implements a modular Python pipeline designed to:
 * **Environment:** Jupyter Notebook / Google Colab / Kaggle Kernels
 
 ---
-
-## Repository Structure
-
-```text
-Breast-Cancer-Deep-learning-model/
-├── breast-cancer-detection-using-deep-learning-cnn.ipynb  # Primary training and evaluation notebook
-├── requirements.txt                                       # Project dependencies
-├── .gitignore                                             # Ignored cache and environment directories
-└── README.md                                              # Project documentation
